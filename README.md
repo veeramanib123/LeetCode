@@ -13,6 +13,7 @@ leetcode solved problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/veeramanib123/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/veeramanib123/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -21,6 +22,7 @@ leetcode solved problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/veeramanib123/LeetCode/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
