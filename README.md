@@ -7,6 +7,7 @@ leetcode solved problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/veeramanib123/LeetCode/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,8 @@ leetcode solved problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
