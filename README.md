@@ -34,24 +34,28 @@ leetcode solved problems
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/veeramanib123/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/veeramanib123/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/veeramanib123/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/veeramanib123/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/veeramanib123/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/veeramanib123/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/veeramanib123/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/veeramanib123/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/veeramanib123/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/veeramanib123/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/veeramanib123/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/veeramanib123/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
