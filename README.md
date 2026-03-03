@@ -31,4 +31,20 @@ leetcode solved problems
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
