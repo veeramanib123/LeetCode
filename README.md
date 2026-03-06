@@ -15,6 +15,7 @@ leetcode solved problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/veeramanib123/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/veeramanib123/LeetCode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/veeramanib123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
 ## Greedy
@@ -101,4 +102,8 @@ leetcode solved problems
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/veeramanib123/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
