@@ -10,6 +10,7 @@ leetcode solved problems
 | [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/veeramanib123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/veeramanib123/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ leetcode solved problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/veeramanib123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
+| [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,8 +107,13 @@ leetcode solved problems
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/veeramanib123/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
+| [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/veeramanib123/LeetCode/tree/main/0061-rotate-list/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
