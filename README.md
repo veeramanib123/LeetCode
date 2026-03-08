@@ -25,6 +25,7 @@ leetcode solved problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/veeramanib123/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/veeramanib123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
@@ -35,6 +36,7 @@ leetcode solved problems
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/veeramanib123/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
 ## Tree
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@ leetcode solved problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/veeramanib123/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
 ## Linked List
 | Problem Name | Difficulty |
