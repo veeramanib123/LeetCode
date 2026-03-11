@@ -53,6 +53,7 @@ leetcode solved problems
 | [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/veeramanib123/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/veeramanib123/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/veeramanib123/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/veeramanib123/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ leetcode solved problems
 | [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/veeramanib123/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/veeramanib123/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/veeramanib123/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/veeramanib123/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -130,4 +132,8 @@ leetcode solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/veeramanib123/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/veeramanib123/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
