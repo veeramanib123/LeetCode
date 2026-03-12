@@ -51,6 +51,7 @@ leetcode solved problems
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/veeramanib123/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/veeramanib123/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/veeramanib123/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/veeramanib123/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/veeramanib123/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -62,6 +63,7 @@ leetcode solved problems
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/veeramanib123/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/veeramanib123/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/veeramanib123/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/veeramanib123/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/veeramanib123/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -71,6 +73,7 @@ leetcode solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/veeramanib123/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/veeramanib123/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/veeramanib123/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/veeramanib123/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -81,6 +84,7 @@ leetcode solved problems
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/veeramanib123/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/veeramanib123/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/veeramanib123/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/veeramanib123/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/veeramanib123/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/veeramanib123/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
