@@ -7,6 +7,7 @@ leetcode solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/veeramanib123/LeetCode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/veeramanib123/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/veeramanib123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/veeramanib123/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -104,6 +105,7 @@ leetcode solved problems
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/veeramanib123/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/veeramanib123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 | Problem Name | Difficulty |
