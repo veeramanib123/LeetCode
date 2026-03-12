@@ -129,6 +129,7 @@ leetcode solved problems
 | [0021-merge-two-sorted-lists](https://github.com/veeramanib123/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/veeramanib123/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/veeramanib123/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/veeramanib123/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/veeramanib123/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -147,4 +148,5 @@ leetcode solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/veeramanib123/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/veeramanib123/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
