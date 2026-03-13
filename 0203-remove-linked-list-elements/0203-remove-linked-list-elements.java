@@ -21,7 +21,7 @@ class Solution {
             if(p2.val==val)
             {
                 p1.next=p2.next;
-                p2=p2.next;
+                p2=p1.next;
             }
             else
             {
