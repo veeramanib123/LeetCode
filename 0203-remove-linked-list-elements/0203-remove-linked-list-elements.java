@@ -29,6 +29,6 @@ class Solution {
             p2=p2.next;
             }
         }
-        return head;
+        return p2;
     }
 }
