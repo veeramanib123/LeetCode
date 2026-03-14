@@ -47,6 +47,7 @@ leetcode solved problems
 | [0012-integer-to-roman](https://github.com/veeramanib123/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/veeramanib123/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
+| [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
 ## Tree
 |  |
 | ------- |
@@ -164,4 +165,16 @@ leetcode solved problems
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/veeramanib123/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
