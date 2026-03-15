@@ -38,6 +38,7 @@ leetcode solved problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/veeramanib123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/veeramanib123/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/veeramanib123/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
 | [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## String Matching
@@ -136,6 +137,7 @@ leetcode solved problems
 | [0013-roman-to-integer](https://github.com/veeramanib123/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/veeramanib123/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/veeramanib123/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/veeramanib123/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
 | [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Linked List
