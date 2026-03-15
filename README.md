@@ -15,6 +15,7 @@ leetcode solved problems
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/veeramanib123/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/veeramanib123/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/veeramanib123/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -31,6 +32,7 @@ leetcode solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/veeramanib123/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/veeramanib123/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/veeramanib123/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/veeramanib123/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -172,6 +174,7 @@ leetcode solved problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/veeramanib123/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 | Problem Name | Difficulty |
