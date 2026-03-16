@@ -13,6 +13,7 @@ leetcode solved problems
 | [0239-sliding-window-maximum](https://github.com/veeramanib123/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/veeramanib123/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2206-divide-array-into-equal-pairs](https://github.com/veeramanib123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +144,7 @@ leetcode solved problems
 | [0290-word-pattern](https://github.com/veeramanib123/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
 | [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2206-divide-array-into-equal-pairs](https://github.com/veeramanib123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -176,6 +178,7 @@ leetcode solved problems
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/veeramanib123/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/veeramanib123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,4 +195,8 @@ leetcode solved problems
 | ------- |
 | [0292-nim-game](https://github.com/veeramanib123/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/veeramanib123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
