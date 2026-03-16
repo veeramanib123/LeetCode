@@ -24,6 +24,7 @@ leetcode solved problems
 | [0141-linked-list-cycle](https://github.com/veeramanib123/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/veeramanib123/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/veeramanib123/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -53,6 +54,7 @@ leetcode solved problems
 | [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/veeramanib123/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/veeramanib123/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Tree
 |  |
 | ------- |
@@ -183,6 +185,7 @@ leetcode solved problems
 | ------- |
 | [0292-nim-game](https://github.com/veeramanib123/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/veeramanib123/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
