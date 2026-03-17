@@ -15,6 +15,7 @@ leetcode solved problems
 | [0485-max-consecutive-ones](https://github.com/veeramanib123/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/veeramanib123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/veeramanib123/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +182,7 @@ leetcode solved problems
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/veeramanib123/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/veeramanib123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/veeramanib123/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@ leetcode solved problems
 | [0292-nim-game](https://github.com/veeramanib123/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/veeramanib123/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/veeramanib123/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Game Theory
 |  |
 | ------- |
