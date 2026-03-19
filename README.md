@@ -10,6 +10,7 @@ leetcode solved problems
 | [0033-search-in-rotated-sorted-array](https://github.com/veeramanib123/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/veeramanib123/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/veeramanib123/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0056-merge-intervals](https://github.com/veeramanib123/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/veeramanib123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/veeramanib123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -173,6 +174,7 @@ leetcode solved problems
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/veeramanib123/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/veeramanib123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/veeramanib123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/veeramanib123/LeetCode/tree/main/0242-valid-anagram/) | Easy |
