@@ -13,6 +13,7 @@ leetcode solved problems
 | [0056-merge-intervals](https://github.com/veeramanib123/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/veeramanib123/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/veeramanib123/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/veeramanib123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/veeramanib123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/veeramanib123/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -199,6 +200,7 @@ leetcode solved problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/veeramanib123/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/veeramanib123/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
