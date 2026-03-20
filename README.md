@@ -12,6 +12,7 @@ leetcode solved problems
 | [0039-combination-sum](https://github.com/veeramanib123/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0056-merge-intervals](https://github.com/veeramanib123/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/veeramanib123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/veeramanib123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/veeramanib123/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/veeramanib123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -151,6 +152,7 @@ leetcode solved problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/veeramanib123/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/veeramanib123/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/veeramanib123/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/veeramanib123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/veeramanib123/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/veeramanib123/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/veeramanib123/LeetCode/tree/main/0290-word-pattern/) | Easy |
@@ -226,4 +228,8 @@ leetcode solved problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/veeramanib123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/veeramanib123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
