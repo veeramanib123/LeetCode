@@ -22,6 +22,7 @@ leetcode solved problems
 | [0485-max-consecutive-ones](https://github.com/veeramanib123/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/veeramanib123/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/veeramanib123/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/veeramanib123/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/veeramanib123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/veeramanib123/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -239,6 +240,7 @@ leetcode solved problems
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/veeramanib123/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/veeramanib123/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/veeramanib123/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
