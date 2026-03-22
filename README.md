@@ -20,6 +20,7 @@ leetcode solved problems
 | [0215-kth-largest-element-in-an-array](https://github.com/veeramanib123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/veeramanib123/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/veeramanib123/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0746-min-cost-climbing-stairs](https://github.com/veeramanib123/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/veeramanib123/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/veeramanib123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -207,6 +208,7 @@ leetcode solved problems
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/veeramanib123/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/veeramanib123/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/veeramanib123/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 | Problem Name | Difficulty |
