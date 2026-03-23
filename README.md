@@ -202,6 +202,7 @@ leetcode solved problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/veeramanib123/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/veeramanib123/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/veeramanib123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/veeramanib123/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -231,6 +232,7 @@ leetcode solved problems
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/veeramanib123/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/veeramanib123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 | Problem Name | Difficulty |
