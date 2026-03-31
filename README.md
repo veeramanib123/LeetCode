@@ -76,6 +76,7 @@ leetcode solved problems
 | [0048-rotate-image](https://github.com/veeramanib123/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/veeramanib123/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/veeramanib123/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/veeramanib123/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/veeramanib123/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/veeramanib123/LeetCode/tree/master/0415-add-strings) |
