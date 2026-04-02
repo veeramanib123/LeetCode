@@ -26,6 +26,7 @@ leetcode solved problems
 | [0705-design-hashset](https://github.com/veeramanib123/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/veeramanib123/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/veeramanib123/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0896-monotonic-array](https://github.com/veeramanib123/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/veeramanib123/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/veeramanib123/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/master/1980-find-unique-binary-string) |
