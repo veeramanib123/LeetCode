@@ -66,11 +66,13 @@ leetcode solved problems
 | [0387-first-unique-character-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/veeramanib123/LeetCode/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/veeramanib123/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/veeramanib123/LeetCode/tree/main/0796-rotate-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
