@@ -26,6 +26,7 @@ leetcode solved problems
 | [0705-design-hashset](https://github.com/veeramanib123/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/veeramanib123/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/veeramanib123/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0867-transpose-matrix](https://github.com/veeramanib123/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/veeramanib123/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/veeramanib123/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/veeramanib123/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -283,12 +284,14 @@ leetcode solved problems
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/veeramanib123/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/veeramanib123/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/veeramanib123/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/veeramanib123/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/veeramanib123/LeetCode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/veeramanib123/LeetCode/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/veeramanib123/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2079-watering-plants](https://github.com/veeramanib123/LeetCode/tree/main/2079-watering-plants/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
