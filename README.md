@@ -15,6 +15,7 @@ leetcode solved problems
 | [0056-merge-intervals](https://github.com/veeramanib123/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/veeramanib123/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/veeramanib123/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/veeramanib123/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/veeramanib123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/veeramanib123/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/veeramanib123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -43,6 +44,7 @@ leetcode solved problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/veeramanib123/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/veeramanib123/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/veeramanib123/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/veeramanib123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/veeramanib123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/veeramanib123/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -224,6 +226,7 @@ leetcode solved problems
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/veeramanib123/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/veeramanib123/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/veeramanib123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/veeramanib123/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/veeramanib123/LeetCode/tree/main/0242-valid-anagram/) | Easy |
