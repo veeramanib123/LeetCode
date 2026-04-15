@@ -8,9 +8,11 @@ class Solution {
             totalDays += isLeap(i) ? 366 : 365;
         }
         for (int i = 0; i < month - 1; i++) {
-            if (i == 1 && isLeap(year)) { 
+            if (i == 1 && isLeap(year))
+            { 
                 totalDays += 29;
-            } else {
+            } else 
+            {
                 totalDays += monthDays[i];
             }
         }
