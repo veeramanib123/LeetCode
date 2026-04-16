@@ -100,6 +100,7 @@ leetcode solved problems
 | [0263-ugly-number](https://github.com/veeramanib123/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/veeramanib123/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/veeramanib123/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/veeramanib123/LeetCode/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/veeramanib123/LeetCode/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/veeramanib123/LeetCode/tree/master/1025-divisor-game) |
 | [1185-day-of-the-week](https://github.com/veeramanib123/LeetCode/tree/main/1185-day-of-the-week/) | Easy |
@@ -185,6 +186,7 @@ leetcode solved problems
 | [0209-minimum-size-subarray-sum](https://github.com/veeramanib123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/veeramanib123/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0367-valid-perfect-square](https://github.com/veeramanib123/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/veeramanib123/LeetCode/tree/master/0400-nth-digit) |
 ## Prefix Sum
 |  |
 | ------- |
