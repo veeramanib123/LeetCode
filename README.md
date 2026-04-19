@@ -23,6 +23,7 @@ leetcode solved problems
 | [0239-sliding-window-maximum](https://github.com/veeramanib123/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/veeramanib123/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/veeramanib123/LeetCode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/veeramanib123/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/veeramanib123/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/veeramanib123/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/veeramanib123/LeetCode/tree/main/0706-design-hashmap/) | Easy |
@@ -208,6 +209,7 @@ leetcode solved problems
 | [0290-word-pattern](https://github.com/veeramanib123/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/veeramanib123/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/veeramanib123/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/veeramanib123/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/veeramanib123/LeetCode/tree/main/0706-design-hashmap/) | Easy |
