@@ -89,6 +89,7 @@ leetcode solved problems
 | [1189-maximum-number-of-balloons](https://github.com/veeramanib123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/veeramanib123/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1528-shuffle-string](https://github.com/veeramanib123/LeetCode/tree/master/1528-shuffle-string) |
+| [1556-thousand-separator](https://github.com/veeramanib123/LeetCode/tree/main/1556-thousand-separator/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## String Matching
 | Problem Name | Difficulty |
