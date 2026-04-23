@@ -34,6 +34,7 @@ leetcode solved problems
 | [0941-valid-mountain-array](https://github.com/veeramanib123/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/veeramanib123/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/veeramanib123/LeetCode/tree/master/1184-distance-between-bus-stops) |
+| [1207-unique-number-of-occurrences](https://github.com/veeramanib123/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/veeramanib123/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1436-destination-city](https://github.com/veeramanib123/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1528-shuffle-string](https://github.com/veeramanib123/LeetCode/tree/master/1528-shuffle-string) |
@@ -222,6 +223,7 @@ leetcode solved problems
 | [0706-design-hashmap](https://github.com/veeramanib123/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0771-jewels-and-stones](https://github.com/veeramanib123/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/veeramanib123/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/veeramanib123/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1436-destination-city](https://github.com/veeramanib123/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/veeramanib123/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/veeramanib123/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
