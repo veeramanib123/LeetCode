@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/thousand-separator">1556. Thousand Separator</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code>, add a dot (&quot;.&quot;) as the thousands separator and return it in string format.</p>
+<h2><a href="https://leetcode.com/problems/thousand-separator">1660. Thousand Separator</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code>, add a dot (&quot;.&quot;) as the thousands separator and return it in string format.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
