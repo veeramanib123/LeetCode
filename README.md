@@ -11,6 +11,7 @@ leetcode solved problems
 | [0035-search-insert-position](https://github.com/veeramanib123/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/veeramanib123/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/veeramanib123/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/veeramanib123/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/veeramanib123/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/veeramanib123/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/veeramanib123/LeetCode/tree/master/0056-merge-intervals) |
@@ -81,6 +82,7 @@ leetcode solved problems
 | [0013-roman-to-integer](https://github.com/veeramanib123/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/veeramanib123/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/veeramanib123/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/veeramanib123/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/veeramanib123/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/veeramanib123/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -219,6 +221,7 @@ leetcode solved problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/veeramanib123/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/veeramanib123/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/veeramanib123/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/veeramanib123/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/veeramanib123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/veeramanib123/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/veeramanib123/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -257,6 +260,7 @@ leetcode solved problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/veeramanib123/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/veeramanib123/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/veeramanib123/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/veeramanib123/LeetCode/tree/master/0088-merge-sorted-array) |
