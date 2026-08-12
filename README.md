@@ -7,6 +7,7 @@ leetcode solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/veeramanib123/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/veeramanib123/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/veeramanib123/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/veeramanib123/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/veeramanib123/LeetCode/tree/main/0039-combination-sum/) | Medium |
@@ -80,6 +81,7 @@ leetcode solved problems
 | [0005-longest-palindromic-substring](https://github.com/veeramanib123/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/veeramanib123/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/veeramanib123/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/veeramanib123/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/veeramanib123/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/veeramanib123/LeetCode/tree/main/0049-group-anagrams/) | Medium |
@@ -365,4 +367,8 @@ leetcode solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/veeramanib123/LeetCode/tree/main/0682-baseball-game/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/veeramanib123/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
