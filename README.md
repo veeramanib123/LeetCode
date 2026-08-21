@@ -30,6 +30,7 @@ leetcode solved problems
 | [0414-third-maximum-number](https://github.com/veeramanib123/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/veeramanib123/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/veeramanib123/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/veeramanib123/LeetCode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/veeramanib123/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/veeramanib123/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/veeramanib123/LeetCode/tree/main/0706-design-hashmap/) | Easy |
