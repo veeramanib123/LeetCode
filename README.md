@@ -67,6 +67,7 @@ leetcode solved problems
 | [0151-reverse-words-in-a-string](https://github.com/veeramanib123/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/veeramanib123/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/veeramanib123/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/veeramanib123/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/veeramanib123/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/veeramanib123/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
@@ -95,6 +96,7 @@ leetcode solved problems
 | [0345-reverse-vowels-of-a-string](https://github.com/veeramanib123/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/veeramanib123/LeetCode/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/veeramanib123/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/veeramanib123/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/veeramanib123/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/veeramanib123/LeetCode/tree/main/0796-rotate-string/) | Easy |
