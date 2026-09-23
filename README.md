@@ -216,6 +216,7 @@ leetcode solved problems
 | [0035-search-insert-position](https://github.com/veeramanib123/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/veeramanib123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/veeramanib123/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0278-first-bad-version](https://github.com/veeramanib123/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/veeramanib123/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/veeramanib123/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/veeramanib123/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -386,4 +387,8 @@ leetcode solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/veeramanib123/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/veeramanib123/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
