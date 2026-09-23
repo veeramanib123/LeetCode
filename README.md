@@ -190,6 +190,7 @@ leetcode solved problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/veeramanib123/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/veeramanib123/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/veeramanib123/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/veeramanib123/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
@@ -370,6 +371,7 @@ leetcode solved problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/veeramanib123/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/veeramanib123/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/veeramanib123/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/veeramanib123/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
@@ -381,6 +383,7 @@ leetcode solved problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/veeramanib123/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/veeramanib123/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/veeramanib123/LeetCode/tree/main/0682-baseball-game/) | Easy |
 ## Trie
 |  |
